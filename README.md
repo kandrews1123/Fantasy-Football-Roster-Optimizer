@@ -18,7 +18,7 @@ The libraries needed are pulp, matplotlib, numpy, pandas, streamlit, seaborn, an
 
 ### Installing
 
-You can download my program through the "CMSE831_Final Project.ipynb" file attached to the repository.
+You can download my program through the "CMSE831_FinalProject_Andrews.ipynb" file attached to the repository.
 
 
 ## Authors
